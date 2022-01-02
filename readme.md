@@ -21,4 +21,4 @@ Deploy your own clone of this app to Begin!
 - [Event Functions tutorial](https://docs.begin.com/en/guides/events/) - basics on working with Event functions.
 - [Events reference documentation](https://docs.begin.com/en/event-functions/provisioning) - basics on expanding the capabilities of your app
 
-Head to [docs.begin.com](https://docs.begin.com/) to learn more!
+Head to [docs.begin.com](https://docs.begin.com/) to learn more!!
